@@ -1,1 +1,1 @@
--For CSharp beginners - to learn basics in console application
+CSharp beginners - to learn basics in console application
